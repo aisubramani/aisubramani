@@ -1,4 +1,4 @@
-# 💫About Me:
+# 💫 About Me:
 🤖 AI - Computational Biology Specialist<br>Passionate about transforming Biomedical Text/Data into discoveries with Artificial Intelligence (AI)-driven Bioinformatics.<br>💡 AI 🧠 NLP  📊 Machine Learning  🖥️ Deep Learning 📈 Data Science
 
 
